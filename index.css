@@ -1,0 +1,12 @@
+body {
+    background-color: lightblue;
+}
+
+.home-button {
+    display: block;
+    margin-bottom: 20px;
+    padding: 15px 15px;
+    background-color: #0044ff;
+    color: white;
+    border-radius: 0 10px 10px 10px;
+}
