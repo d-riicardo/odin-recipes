@@ -1,5 +1,6 @@
 body {
     background-color: lightblue;
+    font-family: Verdana;
 }
 
 .home-button {
@@ -9,4 +10,13 @@ body {
     background-color: #0044ff;
     color: white;
     border-radius: 0 10px 10px 10px;
+}
+#titulo-principal-home {
+    background-color: orange;
+    color: white;
+    text-align: center;
+    width: 50%;
+    padding: 20px;
+    margin: 20px auto 50px auto;
+    border-radius: 8px;
 }
